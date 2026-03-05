@@ -24,6 +24,6 @@
 - Input validation should be consistent to prevent misleading UI behavior.
 
 ## Next Actions
-- Execute WA_TC_001 – WA_TC_010
-- Update Actual Results, Status, and Execution Date
-- Confirm/close defects after retest
+- Execute remaining test cases (WA_TC_002, WA_TC_005-WA_TC_010)
+- Monitor notification behaviour for consistency
+- Perform additional edge-case testing
